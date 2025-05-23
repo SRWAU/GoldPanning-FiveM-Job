@@ -1,5 +1,5 @@
 # GoldPanning-FiveM-Job
-FiveM Gold Panning Script
+***FiveM Gold Panning Script***
 
 A feature-rich gold panning script for FiveM servers running ESX Legacy. Players can pan for resources in a designated river zone using a gold pan, with interactive ox_target zones, a progress bar, a skill check minigame, and a looping dpemotes "mechanic3" animation. The script supports item-based panning, a fallback keybind (F key), and a test command (/use_goldpan). Rewards include gold nuggets, stones, diamonds, and rubber, with configurable probabilities.
 
